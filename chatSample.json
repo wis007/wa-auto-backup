@@ -1,0 +1,20 @@
+Nouveau message de 22898392334@s.whatsapp.net : salut
+Chat :  {
+  key: {
+    remoteJid: '22898392334@s.whatsapp.net',
+    fromMe: false,
+    id: '867C8ADCA45264AA4FD4AF1F8E8C5698',
+    participant: undefined
+  },
+  messageTimestamp: 1753729256,
+  pushName: 'wisdom😎😎😎',
+  broadcast: false,
+  message: Message {
+    conversation: 'Salut',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2,
+      messageSecret: [Uint8Array]
+    }
+  }
+}

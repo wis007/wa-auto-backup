@@ -1,0 +1,37 @@
+Chat :  {
+  key: {
+    remoteJid: '120363100386928612@g.us',
+    fromMe: false,
+    id: 'E10298C00BC8819D11CABBC8656E6D07',
+    participant: '243829347920@s.whatsapp.net'
+  },
+  messageTimestamp: 1753730173,
+  pushName: 'Henry Fiti',
+  broadcast: false,
+  message: Message {
+    senderKeyDistributionMessage: SenderKeyDistributionMessage {
+      groupId: '120363100386928612@g.us',
+      axolotlSenderKeyDistributionMessage: [Uint8Array]
+    },
+    messageContextInfo: MessageContextInfo { messageSecret: [Uint8Array] },
+    imageMessage: ImageMessage {
+      interactiveAnnotations: [],
+      scanLengths: [],
+      annotations: [],
+      url: 'https://mmg.whatsapp.net/o1/v/t24/f2/m232/AQNjkBEbaQomXTB6RRW6wQ-21gf1MydcP4_9UvlB0uM4NQIJDo6pcdpYZG2KQGbJItFQy-y-s-qNMw4fICNaz72erMvdkDT795Skf94nAw?ccb=9-4&oh=01_Q5Aa2AFDw0f0tBPbQMJRRPn7ltdFZBVaTnQwVaAhhf44wvLA8Q&oe=68AF58B6&_nc_sid=e6ed6c&mms3=true',
+      mimetype: 'image/jpeg',
+      caption: 'sur Twitter (x)',
+      fileSha256: [Uint8Array],
+      fileLength: [Long],
+      height: 1080,
+      width: 511,
+      mediaKey: [Uint8Array],
+      fileEncSha256: [Uint8Array],
+      directPath: '/o1/v/t24/f2/m232/AQNjkBEbaQomXTB6RRW6wQ-21gf1MydcP4_9UvlB0uM4NQIJDo6pcdpYZG2KQGbJItFQy-y-s-qNMw4fICNaz72erMvdkDT795Skf94nAw?ccb=9-4&oh=01_Q5Aa2AFDw0f0tBPbQMJRRPn7ltdFZBVaTnQwVaAhhf44wvLA8Q&oe=68AF58B6&_nc_sid=e6ed6c',
+      mediaKeyTimestamp: [Long],
+      jpegThumbnail: [Uint8Array],
+      contextInfo: [ContextInfo]
+    }
+  },
+  verifiedBizName: 'Henry Fiti'
+}

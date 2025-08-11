@@ -1,0 +1,24 @@
+Chat :  {
+  key: {
+    remoteJid: '120363195325432881@newsletter',
+    fromMe: false,
+    id: 'D34E77CC71824C9A7C55536E1C4E4825',
+    participant: undefined
+  },
+  messageTimestamp: 1753730915,
+  pushName: undefined,
+  broadcast: false,
+  message: Message {
+    extendedTextMessage: ExtendedTextMessage {
+      text: '🚨 Nouvelle liste de lettres AdSense disponible !\n' +
+        '📬 Vérifie si la tienne y est : https://t.me/jocimhelp/77\n' +
+        '📲 Contacte-moi uniquement si tu as vu ta lettre dans la vidéo (merci de respecter 🙏) : https://wa.me/qr/DBLUYFDNLT3XM1',
+      matchedText: 'https://t.me/jocimhelp/77',
+      description: 'Code AdSense du 28/7/2025',
+      title: 'jocim help',
+      previewType: 0,
+      inviteLinkGroupTypeV2: 0,
+      linkPreviewMetadata: LinkPreviewMetadata {}
+    }
+  }
+}
